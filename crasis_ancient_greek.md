@@ -6,7 +6,7 @@
 # Ancient Greek crases for textual analysis
 # language: Ancient Greek (grc)
 # type: dataset
-# items count: 133
+# items count: 139
 # https://github.com/aurelberra/crasis_ancient_greek
 # rights: CC-BY-NC-SA
 
@@ -71,6 +71,10 @@ The sources used in compiling this list are:
 'κἄπειτα': 'καὶ ἔπειτα'
 'κᾀπί': 'καὶ ἐπί'
 'κᾀσχρῶν': 'καὶ αἰσχρῶν'
+'κἆθ’': 'καὶ εἶτα'
+'κἆτ’': 'καὶ εἶτα'
+'κᾆθ’': 'καὶ εἶτα'
+'κᾆτ’': 'καὶ εἶτα'
 'κᾆτα': 'καὶ εἶτα'
 'καὐτός': 'καὶ αὐτός'
 'κεἰ': 'καὶ εἰ'
@@ -111,6 +115,7 @@ The sources used in compiling this list are:
 'τἀληθές': 'τὸ ἀληθές'
 'τἀληθοῦς': 'τοῦ ἀληθοῦς'
 'τἀληθῆ': 'τὰ ἀληθῆ'
+'τἄλλ’': 'τὰ ἄλλα'
 'τἄλλα': 'τὰ ἄλλα'
 'τἆλλα': 'τὰ ἄλλα'
 'τἀν': 'τὰ ἐν'
@@ -119,6 +124,7 @@ The sources used in compiling this list are:
 'τἄρα': 'τοὶ ἄρα'
 'τἆρα': 'τοι ἄρα'
 'τἄρια': 'τὰ ἔρια'
+'ταὔθ’': 'τὰ αὐτά'
 'ταὐτά': 'τὰ αὐτά'
 'ταὐτοῦ': 'τοῦ αὐτοῦ'
 'τοὐμόν': 'τὸ ἐμόν'
